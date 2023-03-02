@@ -1,0 +1,86 @@
+body{
+	background: lightblue;
+}
+.container{
+background: #fff;
+width: 490PX;
+height: 400PX;
+padding: 20PX;
+margin-top: 10%;
+margin-left: 40%;
+}
+.text-capitalize{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: #023047;
+}
+.my-5{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color:#023047;
+}.message-content{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: #2a9d8f;
+}
+.alert-danger{
+	
+	background: #fcd5ce;
+	padding: 10px;
+	border-radius: 3px;
+	width: 400px;
+	margin-left: 0;
+	
+}
+.alert{
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	color: #540b0e;
+}
+
+
+
+.row{
+	padding: 20PX;
+	margin-left: 200X;
+}
+input[type="text"]{
+	padding: 10px;
+	border: 1px solid #2a9d8f;
+	border-radius: 5px;
+	botton-boxshow: 20px;
+
+	width: 400px;
+
+	
+
+}
+/*input:hover{
+border:3px solid #2a9d8f;
+}*/
+
+input[type="submit"]{
+	border: none;
+	border-radius:8px;
+	padding: 5px;
+	background: #2a9d8f;
+	color: white;
+	width: 100px;
+	height:40px;
+	margin-left: 150px;
+	font-size: 20px;
+
+
+}
+
+.feedback {
+  display: none;
+}
+
+.show {
+  display: block;
+}
